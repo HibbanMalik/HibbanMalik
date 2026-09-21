@@ -11,10 +11,10 @@ Building software, experimenting with AI, and turning ideas into real projects.
 <a href="https://hibban.dev/">
   <img src="https://img.shields.io/badge/Portfolio-hibban.dev-000000?style=for-the-badge&logo=safari&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hibban-malik-07a759287/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_X_URL">
+<a href="https://x.com/Hibban_malik">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
@@ -248,11 +248,11 @@ Some areas I've worked with:
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/hibban-malik-07a759287/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_X_URL">
+<a href="https://x.com/Hibban_malik">
   <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
