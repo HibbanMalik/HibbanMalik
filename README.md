@@ -1,118 +1,263 @@
-# Hey, I'm Hibban 👋
+<div align="center">
+
+# 👋 Hello, I'm Hibban Malik
 
 ### Computer Science Student • Software Developer • AI & Automation Builder
 
-I'm a Computer Science student at **San Francisco State University** with a strong interest in software engineering, AI systems, automation, and developer tools.
+Building software, experimenting with AI, and turning ideas into real projects.
 
-I enjoy building practical projects, experimenting with new technologies, and working primarily from the command line.
+<br>
 
-🌐 [hibban.studio](https://hibban.studio)
+<a href="https://hibban.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-hibban.dev-000000?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_X_URL">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 👨🏻‍💻 A Little About Me
 
-- 🤖 Building multi-agent AI systems
-- 💻 Full-stack web applications with Next.js
-- 🧠 Exploring AI agents, LLM workflows, and automation
-- 📈 Building financial and trading dashboards
-- 🐧 Improving my Linux, terminal, and developer workflow
-- 🎓 B.S. Computer Science — SFSU, Class of 2027
+```yaml
+name: Hibban Malik
+
+location: San Francisco, California
+
+education:
+  university: San Francisco State University
+  degree: B.S. Computer Science
+  expected_graduation: 2027
+
+currently_building:
+  - Multi-Agent AI Systems
+  - Full-Stack Web Applications
+  - Automation Tools
+  - Developer Tools
+  - Trading & Financial Dashboards
+
+fields_of_interest:
+  - Software Engineering
+  - Artificial Intelligence
+  - AI Agents
+  - Automation
+  - Full-Stack Development
+  - Command Line Tools
+  - Linux
+  - Developer Infrastructure
+
+languages_learned:
+  - Python
+  - Java
+  - JavaScript
+  - TypeScript
+  - C
+  - C++
+  - MIPS Assembly
+  - Bash / Shell
+  - HTML
+  - CSS
+
+developer_environment:
+  terminal: Ghostty
+  multiplexer: tmux
+  editor: VS Code
+  operating_systems:
+    - macOS
+    - Linux
+
+currently_learning:
+  - Computer Architecture
+  - MIPS Assembly
+  - Advanced Full-Stack Development
+  - AI Agent Systems
+
+goal:
+  "Build useful software, intelligent systems, and eventually my own tech company."
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tools I Have Used & Learned
 
-### Languages
+### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-555555?style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,bash,html,css" />
+</p>
 
-### Web Languages
+`MIPS Assembly`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+### ⚡ Frameworks & Technologies
 
-### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`REST APIs` • `WordPress` • `Full-Stack Development`
+
+### 🛠 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple" />
+</p>
+
+`Ghostty` • `tmux` • `NVM` • `Vagrant` • `VirtualBox` • `ADB` • `Command Line`
+
+### 🤖 AI & Automation
+
+`AI Agents` • `Multi-Agent Systems` • `LLM Workflows` • `Automation` • `Hermes`
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 Multi-Agent AI System
-A virtual office built around specialized AI agents for task management, planning, social media, and university workflows.
+### 🤖 Virtual Office — Multi-Agent AI System
 
-**Tech:** Next.js • AI Agents • REST APIs • Automation
+A virtual AI-powered workspace built around specialized agents that handle different responsibilities including planning, university tasks, social media, and task management.
+
+**Tech:**  
+`Next.js` • `AI Agents` • `REST APIs` • `Hermes` • `Automation`
 
 ---
 
 ### 📈 Paper Trading Platform
-A web-based trading simulator and financial dashboard for experimenting with market data and trading strategies.
 
-**Tech:** JavaScript • Next.js • Financial Data
+A web-based paper trading application designed for experimenting with trading workflows, financial data, and portfolio interfaces.
+
+**Tech:**  
+`Next.js` • `JavaScript` • `Financial Data` • `Web Development`
 
 ---
 
 ### 🧠 CORTEX
-Python-based voice assistant built to experiment with automation, commands, and AI-powered interactions.
 
-**Tech:** Python • Automation • APIs
+A Python-powered voice assistant built to experiment with commands, APIs, automation, and intelligent interactions.
+
+**Tech:**  
+`Python` • `APIs` • `Automation`
 
 ---
 
-### 🌐 Barq Al Qamar
-Designed and developed the online presence for an electrical products and lighting supplier.
+### 🌎 GeoWatch
 
-**Tech:** Web Development • WordPress • UI/UX
+A map-focused web dashboard built for exploring geographic information through an interactive interface.
+
+**Tech:**  
+`React` • `Vite` • `JavaScript`
+
+---
+
+### 📊 Crypto Dashboard
+
+A cryptocurrency portfolio dashboard designed to visualize holdings, investments, and asset information.
+
+**Tech:**  
+`JavaScript` • `Web Development` • `Financial Data`
+
+---
+
+### 💡 Barq Al Qamar
+
+Developed and worked on the digital presence for Barq Al Qamar Trading Co., an electrical, lighting, ventilation, and accessories supplier.
+
+**Tech:**  
+`WordPress` • `Web Development` • `UI/UX`
+
+---
+
+## 🖥️ Developer Environment
+
+```bash
+hibban@dev-machine:~$ whoami
+
+Hibban Malik
+
+
+hibban@dev-machine:~$ cat interests.txt
+
+Software Engineering
+Artificial Intelligence
+AI Agents
+Automation
+Linux
+CLI
+Full-Stack Development
+
+
+hibban@dev-machine:~$ echo $TERMINAL
+
+Ghostty + tmux
+
+
+hibban@dev-machine:~$ echo $EDITOR
+
+VS Code
+
+
+hibban@dev-machine:~$ echo $CURRENT_FOCUS
+
+AI Agents + Full-Stack Development
+
+
+hibban@dev-machine:~$ status
+
+Always building something...
+```
+
+---
+
+## 📚 Computer Science
+
+Currently studying Computer Science at **San Francisco State University**.
+
+Some areas I've worked with:
+
+`Data Structures` • `Algorithms` • `Discrete Mathematics` • `Computer Architecture` • `MIPS Assembly` • `Linear Algebra` • `Web Development`
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HibbanMalik&show_icons=true&hide_border=true&theme=github_dark"
-    height="165"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibbanMalik&layout=compact&hide_border=true&theme=github_dark"
-    height="165"
-  />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HibbanMalik&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/HibbanMalik?style=for-the-badge&logo=github&label=FOLLOWERS" />
+
+<img src="https://img.shields.io/github/stars/HibbanMalik?style=for-the-badge&logo=github&label=STARS" />
+
+</div>
 
 ---
 
-## 💻 Developer Environment
+## 🌐 Let's Connect
 
-```bash
-$ whoami
-hibban
+<div align="center">
 
-$ interests
-AI • Software Engineering • Automation • CLI • Linux
+### Let's build something.
 
-$ currently_building
-multi-agent systems
+🌐 **[hibban.dev](https://hibban.dev/)**
 
-$ editor
-VS Code
+📧 **hibbanmalik28@gmail.com**
 
-$ terminal
-Ghostty + tmux
+<br>
 
-$ status
-always building something
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_X_URL">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br><br>
+
+`Software Developer` • `AI Builder` • `CS @ SFSU`
+
+</div>
